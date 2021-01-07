@@ -1,2 +1,2 @@
 # FlappyBird
-One of my first programms made in C++
+One of my first programs made in C++
