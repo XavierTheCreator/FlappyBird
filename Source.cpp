@@ -142,7 +142,7 @@ protected:
 
 int main()
 {
-	// Use olcConsoleGameEngine derived app
+	// Makes a variable of type FlappyBird to instantiate game
 	FlappyBird game;
 	game.ConstructConsole(80, 48, 16, 16);
 	game.Start();
